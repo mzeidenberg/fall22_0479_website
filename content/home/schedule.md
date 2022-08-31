@@ -1,0 +1,47 @@
+---
+widget: blank
+headless: true
+
+title: Schedule
+subtitle:
+weight: 2  # section position on page
+design:
+columns: '1'
+---
+The following schedule is subject to change.
+
+Assignments and due dates will be on Brightspace.
+
+The following schedule is subject to change based on the speed at which we get through various topics.
+
+|Class       |Topics                                               |Reading/Resourses|
+|------------|-----------------------------------------------------|-----------------|
+|W 9/7|Course Overview; [Languages for data analysis & discussion of Python tooling](https://colab.research.google.com/drive/1P48h1PqcssBn-jesuOmNSTKpg-ETBQyh?usp=sharing); Python basics: [File I/O](https://colab.research.google.com/drive/1wroJjXEjz6Igm5xk_u-hDG-Fr9mmehfR?usp=sharing), [Unicode and Strings](https://colab.research.google.com/drive/1vBunMtioF9ACmkrtOdxM7HdkaPxOOPYV?usp=sharing) |Python for Data Analysis, Chapters 1 and 2; Data Science from Scratch, Chapter 2| 
+|M 9/12| [Python Sequences, Dictionaries, and Sets](https://colab.research.google.com/drive/1-fAR35RBBt8yCaAiIfoH0PBiVA_d6QZJ?usp=sharing)||
+|W 9/14|[Functions and Functions as Arguments; Lambdas](https://colab.research.google.com/drive/1VuCIoucvn52PDyOv3Mw9eSMvug-weJ_s?usp=sharing)||
+|M 9/19|[Decorators](https://colab.research.google.com/drive/1va3y4T4GJSdr0WGc75JrC8I5DXZxoE_v?usp=sharing); [Named Tuples and Classes](https://colab.research.google.com/drive/1JXXwtpzjj5SlK7wqQMe36cSGTtbv8_19?usp=sharing)||
+|W 9/21|[Classes and Dunder/Magic Methods](https://colab.research.google.com/drive/1s8XIeUXxQhqs89-mz4ip33rEAlv24HwO?usp=sharing)||
+|M 9/26|[Iterators and Comprehensions](https://colab.research.google.com/drive/1z-POEdOSwEgyksaEdV2_BZZuYnozTHg1?usp=sharing); [Extracting Data from a CSV file](https://colab.research.google.com/drive/1emXKArdiIiPteTqLAWqQOhHxhOQgbLeN?usp=sharing); [Descriptive Statistics](https://colab.research.google.com/drive/11RtKDjfOqnXRD-g4dapps5co1Yypy4BJ?usp=sharing); [Central Tendency and Dispersion](https://colab.research.google.com/drive/1SukU0JFlqnxDFG8mywrsWBWJLBDKs-AR?usp=sharing)||||
+|W 9/28| [Covariance and Correlation](https://colab.research.google.com/drive/1e9a-yMsT0cvVbaG9auRtaon0bSv1MOKD?usp=sharing); [Generators](https://colab.research.google.com/drive/17gQ2EnhPG2lDQ0aM4bfZ6SlM-p69QFpM?usp=sharing) ||
+|M 10/3|[Numpy Basics](https://colab.research.google.com/drive/1skb9XyP1Qy7ymuMxtGGxSa64b5xZIdDS?usp=sharing)||
+|W 10/5| [Plotting and Visualization](https://colab.research.google.com/drive/1E9UJUfPO1Ww38zoF7ZgWUFYaGtNfpU4d?usp=sharing)||
+|Tu 10/11| [Text File Formats](https://colab.research.google.com/drive/1vtq7K5UdBWxmG4nN1fQ5IQLfHP2pHSbK?usp=sharing); [Tabular Data (pandas)](https://colab.research.google.com/drive/1PRIW8KXHgPZfECGP2LFRWWAjWXMMppzj?usp=sharing)||
+|W 10/12|  [Pandas Part 2](https://colab.research.google.com/drive/1a-tBSiDU9aYsYTGpi9q0_6jRhBPlcTI9?usp=sharing); [Pandas Part 3](https://colab.research.google.com/drive/14EdDK9SmaSbYyG31XgorSr9EroqcT2AZ?usp=sharing)||
+|M 10/17| [Pandas Part 4](https://colab.research.google.com/drive/1QALIjdfj2a7Vzmjro_M_J64_Nn52Z54d?usp=sharing)||
+|W 10/19|Review for Midterm Exam||
+|M 10/24|Midterm Exam||
+|M 10/31|Pandas Join, Combine, and Reshape; Data Aggregation; Overview of Relational Databases; SQL; Single Table Queries||
+|W 11/2|SQL: Column Types, Basic Math and Stats, Importing Data, Aggregation and Grouping;Constraints and Naming Conventions; Joining Multiple Tables||
+|M 11/7|Importing Data Continued; Table Joins Continued; Database Design; Entities and Relationships; The Relational Data Model||
+|W 11/9|Normalization, ER Diagrams, Insert with Subquery; Text Manipulation||
+|M 11/14|Conditionals, More Subqueries, Dates and Times||
+|W 11/16|Views, Functions, Triggers; Indexes||
+|M 11/21|Window Functions||
+|W 11/23|Python Interface to SQLite||
+|M 11/28|NoSQL: MongoDB||
+|W 11/30|TBA||
+|M 12/5|TBA||
+|W 12/7|TBA||
+|M 12/12|TBA||
+|W 12/14|Review for Final Exam||
+|TBA|[Final Exam](https://cs.nyu.edu/dynamic/courses/exams/?semester=fall_2022&level=UA)||||
