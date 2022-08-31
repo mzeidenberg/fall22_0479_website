@@ -21,7 +21,7 @@ All of the Zoom links below (for meetings and office hours) can be also found on
     - Zoom link: https://nyu.zoom.us/j/93142815959
 
 ## Office Hours
-My office hours will be held on Zoom this semester on Tuesdays and Thursdays from 11AM to 1 PM.
+My office hours will be held on Zoom this semester on Tuesdays and Thursdays from 11AM to 1 PM starting on Sept. 6.
 
 Zoom link: https://nyu.zoom.us/j/92211652314
 
