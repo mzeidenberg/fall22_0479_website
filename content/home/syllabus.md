@@ -29,7 +29,9 @@ Please turn your camera on if possible when you connect.
 
 If you are unable to log on at these times and would like to talk to me, please email me for an appointment.
 
-Jaimin, the TA, will also be holding Zoom office hours, details TBA.
+Jaimin, the TA, will also be holding Zoom office hours on Tuesdays and Wednesdays from 2-3 PM. The link is https://nyu.zoom.us/j/96413006016?pwd=Z3gyS043RlNyRTl5dC94Z3ArbzI2Zz09 
+
+You can also access Jaimin's meeting link in Brightspace.
 
 ## Course Description
 
