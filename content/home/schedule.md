@@ -27,11 +27,12 @@ The following schedule is subject to change based on the speed at which we get t
 |W 10/5| [Plotting and Visualization](https://colab.research.google.com/drive/1E9UJUfPO1Ww38zoF7ZgWUFYaGtNfpU4d?usp=sharing)||
 |Tu 10/11| [Text File Formats](https://colab.research.google.com/drive/1vtq7K5UdBWxmG4nN1fQ5IQLfHP2pHSbK?usp=sharing); [Tabular Data (pandas)](https://colab.research.google.com/drive/1PRIW8KXHgPZfECGP2LFRWWAjWXMMppzj?usp=sharing)||
 |W 10/12|  [Pandas Part 2](https://colab.research.google.com/drive/1a-tBSiDU9aYsYTGpi9q0_6jRhBPlcTI9?usp=sharing); [Pandas Part 3](https://colab.research.google.com/drive/14EdDK9SmaSbYyG31XgorSr9EroqcT2AZ?usp=sharing)||
-|M 10/17| [Pandas Part 4](https://colab.research.google.com/drive/1QALIjdfj2a7Vzmjro_M_J64_Nn52Z54d?usp=sharing)||
+|M 10/17| [Pandas Part 4](https://colab.research.google.com/drive/1QALIjdfj2a7Vzmjro_M_J64_Nn52Z54d?usp=sharing); [Pandas Part 5](https://colab.research.google.com/drive/1YiSIEp61ODkzsNSDgUfSgoXrowZItX3N?usp=sharing)||
 |W 10/19|Review for Midterm Exam||
 |M 10/24|Midterm Exam||
-|M 10/31|Pandas Join, Combine, and Reshape; Data Aggregation; Overview of Relational Databases; SQL; Single Table Queries||
-|W 11/2|SQL: Column Types, Basic Math and Stats, Importing Data, Aggregation and Grouping;Constraints and Naming Conventions; Joining Multiple Tables||
+|W 10/26|[Overview of Relational Databases](https://colab.research.google.com/drive/1JbXAi2D1o1nRLmqC7RCHfDFeHv0N-20L?usp=sharing); [SQL Lite Intro](https://colab.research.google.com/drive/1XYIO2owlrLM8Sa5Jyh5HMZy2tjyJQktH?usp=sharing)||
+|M 10/31|SQL: Column Types, Basic Math and Stats, Importing Data, Aggregation and Grouping||
+|W 11/2|Constraints and Naming Conventions; Joining Multiple Tables||
 |M 11/7|Importing Data Continued; Table Joins Continued; Database Design; Entities and Relationships; The Relational Data Model||
 |W 11/9|Normalization, ER Diagrams, Insert with Subquery; Text Manipulation||
 |M 11/14|Conditionals, More Subqueries, Dates and Times||
