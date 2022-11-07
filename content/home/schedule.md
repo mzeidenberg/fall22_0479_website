@@ -30,11 +30,10 @@ The following schedule is subject to change based on the speed at which we get t
 |M 10/17| [Pandas Part 4](https://colab.research.google.com/drive/1QALIjdfj2a7Vzmjro_M_J64_Nn52Z54d?usp=sharing); [Pandas Part 5](https://colab.research.google.com/drive/1YiSIEp61ODkzsNSDgUfSgoXrowZItX3N?usp=sharing)||
 |W 10/19|Review for Midterm Exam||
 |M 10/24|Midterm Exam||
-|W 10/26|[Overview of Relational Databases](https://colab.research.google.com/drive/1JbXAi2D1o1nRLmqC7RCHfDFeHv0N-20L?usp=sharing); [SQL Lite Intro](https://colab.research.google.com/drive/1XYIO2owlrLM8Sa5Jyh5HMZy2tjyJQktH?usp=sharing)||
-|M 10/31|SQL: Column Types, Basic Math and Stats, Importing Data, Aggregation and Grouping||
-|W 11/2|Constraints and Naming Conventions; Joining Multiple Tables||
-|M 11/7|Importing Data Continued; Table Joins Continued; Database Design; Entities and Relationships; The Relational Data Model||
-|W 11/9|Normalization, ER Diagrams, Insert with Subquery; Text Manipulation||
+|W 10/26|[Overview of Relational Databases](https://colab.research.google.com/drive/1JbXAi2D1o1nRLmqC7RCHfDFeHv0N-20L?usp=sharing); [SQLite Intro](https://colab.research.google.com/drive/1XYIO2owlrLM8Sa5Jyh5HMZy2tjyJQktH?usp=sharing)||
+|M 10/31|Continuation of SQLite Intro||
+|W 11/2|Continuation of SQLite Intro; [Subqueries and Views in SQLite](https://colab.research.google.com/drive/1gllK-cXxBftQIXh7Of9VjZ-4RGMHoj2O?usp=sharing); [Motivation for Database Design](https://colab.research.google.com/drive/1QkD-Ex0J19OLvnJnKqhxRRAA-lo48M_s?usp=sharing); [Database Design](https://colab.research.google.com/drive/1PoCYRKPYb1iYBvKVl80shreGDcdOoZqM?usp=sharing)||
+|W 11/9|[Relational Database Normalization](https://colab.research.google.com/drive/1Ny45_TNkKbwyGbVhzcRIxNRkdGXcyoDQ?usp=sharing); [An Example of Normalization](https://colab.research.google.com/drive/1zPpyDeUjen4Xk4AO1TBZBQvpLqxrYhUR?usp=sharing)||
 |M 11/14|Conditionals, More Subqueries, Dates and Times||
 |W 11/16|Views, Functions, Triggers; Indexes||
 |M 11/21|Window Functions||
