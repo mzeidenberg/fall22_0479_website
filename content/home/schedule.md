@@ -33,8 +33,8 @@ The following schedule is subject to change based on the speed at which we get t
 |W 10/26|[Overview of Relational Databases](https://colab.research.google.com/drive/1JbXAi2D1o1nRLmqC7RCHfDFeHv0N-20L?usp=sharing); [SQLite Intro](https://colab.research.google.com/drive/1XYIO2owlrLM8Sa5Jyh5HMZy2tjyJQktH?usp=sharing)||
 |M 10/31|Continuation of SQLite Intro||
 |W 11/2|Continuation of SQLite Intro; [Subqueries and Views in SQLite](https://colab.research.google.com/drive/1gllK-cXxBftQIXh7Of9VjZ-4RGMHoj2O?usp=sharing); [Motivation for Database Design](https://colab.research.google.com/drive/1QkD-Ex0J19OLvnJnKqhxRRAA-lo48M_s?usp=sharing)||
-|W 11/9| [Database Design](https://colab.research.google.com/drive/1PoCYRKPYb1iYBvKVl80shreGDcdOoZqM?usp=sharing)[Relational Database Normalization](https://colab.research.google.com/drive/1Ny45_TNkKbwyGbVhzcRIxNRkdGXcyoDQ?usp=sharing)||
-|M 11/14|Conditionals, More Subqueries, Dates and Times||
+|W 11/9| [Database Design](https://colab.research.google.com/drive/1PoCYRKPYb1iYBvKVl80shreGDcdOoZqM?usp=sharing)||
+|M 11/14|[Relational Database Normalization](https://colab.research.google.com/drive/1Ny45_TNkKbwyGbVhzcRIxNRkdGXcyoDQ?usp=sharing)||
 |W 11/16|[An Example of Normalization](https://colab.research.google.com/drive/1zPpyDeUjen4Xk4AO1TBZBQvpLqxrYhUR?usp=sharing); Window Functions: [Google Slides](https://docs.google.com/presentation/d/1piXTDCmIcvC8em5Re9AnrnsxcB-I1MzqkktQmzAD5iw/edit?usp=sharing); [Notebook](https://drive.google.com/file/d/115om8CccBYxTZc3w-hqfVwGTWJeUtrrG/view?usp=sharing)||
 |M 11/21|SQLite Constraints, Triggers, Indexes||
 |W 11/23|NoSQL: MongoDB||
