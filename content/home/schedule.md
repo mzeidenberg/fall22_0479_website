@@ -32,15 +32,15 @@ The following schedule is subject to change based on the speed at which we get t
 |M 10/24|Midterm Exam||
 |W 10/26|[Overview of Relational Databases](https://colab.research.google.com/drive/1JbXAi2D1o1nRLmqC7RCHfDFeHv0N-20L?usp=sharing); [SQLite Intro](https://colab.research.google.com/drive/1XYIO2owlrLM8Sa5Jyh5HMZy2tjyJQktH?usp=sharing)||
 |M 10/31|Continuation of SQLite Intro||
-|W 11/2|Continuation of SQLite Intro; [Subqueries and Views in SQLite](https://colab.research.google.com/drive/1gllK-cXxBftQIXh7Of9VjZ-4RGMHoj2O?usp=sharing); [Motivation for Database Design](https://colab.research.google.com/drive/1QkD-Ex0J19OLvnJnKqhxRRAA-lo48M_s?usp=sharing); [Database Design](https://colab.research.google.com/drive/1PoCYRKPYb1iYBvKVl80shreGDcdOoZqM?usp=sharing)||
-|W 11/9|[Relational Database Normalization](https://colab.research.google.com/drive/1Ny45_TNkKbwyGbVhzcRIxNRkdGXcyoDQ?usp=sharing); [An Example of Normalization](https://colab.research.google.com/drive/1zPpyDeUjen4Xk4AO1TBZBQvpLqxrYhUR?usp=sharing)||
+|W 11/2|Continuation of SQLite Intro; [Subqueries and Views in SQLite](https://colab.research.google.com/drive/1gllK-cXxBftQIXh7Of9VjZ-4RGMHoj2O?usp=sharing); [Motivation for Database Design](https://colab.research.google.com/drive/1QkD-Ex0J19OLvnJnKqhxRRAA-lo48M_s?usp=sharing)||
+|W 11/9| [Database Design](https://colab.research.google.com/drive/1PoCYRKPYb1iYBvKVl80shreGDcdOoZqM?usp=sharing)[Relational Database Normalization](https://colab.research.google.com/drive/1Ny45_TNkKbwyGbVhzcRIxNRkdGXcyoDQ?usp=sharing)||
 |M 11/14|Conditionals, More Subqueries, Dates and Times||
-|W 11/16|Views, Functions, Triggers; Indexes||
-|M 11/21|Window Functions||
-|W 11/23|Python Interface to SQLite||
-|M 11/28|NoSQL: MongoDB||
-|W 11/30|TBA||
-|M 12/5|TBA||
+|W 11/16|[An Example of Normalization](https://colab.research.google.com/drive/1zPpyDeUjen4Xk4AO1TBZBQvpLqxrYhUR?usp=sharing); Window Functions: [Google Slides](https://docs.google.com/presentation/d/1piXTDCmIcvC8em5Re9AnrnsxcB-I1MzqkktQmzAD5iw/edit?usp=sharing); [Notebook](https://drive.google.com/file/d/115om8CccBYxTZc3w-hqfVwGTWJeUtrrG/view?usp=sharing)||
+|M 11/21|SQLite Constraints, Triggers, Indexes||
+|W 11/23|NoSQL: MongoDB||
+|M 11/28|Graph Databases||
+|W 11/30|Linear and Logistic Regression||
+|M 12/5|Random Forests (Machine Learning)||
 |W 12/7|TBA||
 |M 12/12|TBA||
 |W 12/14|Review for Final Exam||
