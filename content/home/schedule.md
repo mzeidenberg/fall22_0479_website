@@ -44,5 +44,5 @@ The following schedule is subject to change based on the speed at which we get t
 |W 12/7|TBA||
 |M 12/12|TBA||
 |W 12/14|Review for Final Exam||
-|Monday, 12/19|Final Exam, Section 003, 12pm to 1:50pm, online||||
-|Tuesday, 12/20|Final Exam, Seciton 002, 2pm to 3:50pm, Silver 411||||
+|Monday, 12/19|Final Exam, Section 003, 12pm to 1:50pm, online||
+|Tuesday, 12/20|Final Exam, Section 002, 2pm to 3:50pm, Silver 411||
