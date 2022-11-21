@@ -37,11 +37,11 @@ The following schedule is subject to change based on the speed at which we get t
 |M 11/14|[Relational Database Normalization](https://colab.research.google.com/drive/1Ny45_TNkKbwyGbVhzcRIxNRkdGXcyoDQ?usp=sharing)||
 |W 11/16|[An Example of Normalization](https://colab.research.google.com/drive/1zPpyDeUjen4Xk4AO1TBZBQvpLqxrYhUR?usp=sharing); Window Functions: [Google Slides](https://docs.google.com/presentation/d/1piXTDCmIcvC8em5Re9AnrnsxcB-I1MzqkktQmzAD5iw/edit?usp=sharing); [Notebook](https://drive.google.com/file/d/115om8CccBYxTZc3w-hqfVwGTWJeUtrrG/view?usp=sharing)||
 |M 11/21|SQLite Constraints, Triggers, Indexes||
-|W 11/23|NoSQL: MongoDB||
-|M 11/28|Graph Databases||
-|W 11/30|Linear and Logistic Regression||
-|M 12/5|Random Forests (Machine Learning)||
-|W 12/7|TBA||
+|W 11/23|No Class||
+|M 11/28|NoSQL: MongoDB||
+|W 11/30|Graph Databases||
+|M 12/5|Linear and Logistic Regression||
+|W 12/7|Random Forests (Machine Learning)||
 |M 12/12|TBA||
 |W 12/14|Review for Final Exam||
 |Monday, 12/19|Final Exam, Section 003, 12pm to 1:50pm, online||
