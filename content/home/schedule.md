@@ -36,10 +36,10 @@ The following schedule is subject to change based on the speed at which we get t
 |W 11/9| [Database Design](https://colab.research.google.com/drive/1PoCYRKPYb1iYBvKVl80shreGDcdOoZqM?usp=sharing)||
 |M 11/14|[Relational Database Normalization](https://colab.research.google.com/drive/1Ny45_TNkKbwyGbVhzcRIxNRkdGXcyoDQ?usp=sharing)||
 |W 11/16|[An Example of Normalization](https://colab.research.google.com/drive/1zPpyDeUjen4Xk4AO1TBZBQvpLqxrYhUR?usp=sharing); Window Functions: [Google Slides](https://docs.google.com/presentation/d/1piXTDCmIcvC8em5Re9AnrnsxcB-I1MzqkktQmzAD5iw/edit?usp=sharing); [Notebook](https://drive.google.com/file/d/115om8CccBYxTZc3w-hqfVwGTWJeUtrrG/view?usp=sharing)||
-|M 11/21|SQLite Constraints, Triggers, Indexes||
+|M 11/21|[SQLite Constraints](https://colab.research.google.com/drive/1l5gAZPsF3pXRYQ38el-WWFhIZiGZ9_TD?usp=sharing), [Triggers](https://colab.research.google.com/drive/1k8VG2XlnyWC9EmCFPHNf_oXlINGHWTh-?usp=sharing), [Indexes](https://colab.research.google.com/drive/1z76QcidpYzzcOXZwyjl4u4eMTTCsHRd5?usp=sharing), Window Functions: [Google Slides](https://docs.google.com/presentation/d/1piXTDCmIcvC8em5Re9AnrnsxcB-I1MzqkktQmzAD5iw/edit?usp=sharing); [Notebook](https://drive.google.com/file/d/115om8CccBYxTZc3w-hqfVwGTWJeUtrrG/view?usp=sharing)||
 |W 11/23|No Class||
-|M 11/28|NoSQL: MongoDB||
-|W 11/30|Graph Databases||
+|M 11/28|[NoSQL: MongoDB](https://colab.research.google.com/drive/1fANwBEUHNJYVVCOYF4eK8L2yMgxy87DS?usp=sharing)||
+|W 11/30|[Graph Databases](https://docs.google.com/presentation/d/1CFq0O5mIctp5QyjYWD3zuKvFk2R5yPUd53Cj68oR-O8/edit?usp=sharing)||
 |M 12/5|Linear and Logistic Regression||
 |W 12/7|Random Forests (Machine Learning)||
 |M 12/12|TBA||
