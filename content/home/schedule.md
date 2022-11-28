@@ -41,7 +41,7 @@ The following schedule is subject to change based on the speed at which we get t
 |M 11/28|[NoSQL: MongoDB](https://colab.research.google.com/drive/1fANwBEUHNJYVVCOYF4eK8L2yMgxy87DS?usp=sharing)||
 |W 11/30|[Graph Databases](https://docs.google.com/presentation/d/1CFq0O5mIctp5QyjYWD3zuKvFk2R5yPUd53Cj68oR-O8/edit?usp=sharing)||
 |M 12/5|Linear and Logistic Regression||
-|W 12/7|Random Forests (Machine Learning)||
+|W 12/7|Decision Trees; Random Forests (Machine Learning)||
 |M 12/12|TBA||
 |W 12/14|Review for Final Exam||
 |Monday, 12/19|Final Exam, Section 003, 12pm to 1:50pm, online||
